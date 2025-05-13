@@ -53,11 +53,13 @@ The HSN Code Validation Agent is a smart Python-based tool built to validate Har
 
 - When prompted, enter one or more HSN codes separated by commas:<br>
 
-  ![image](https://github.com/user-attachments/assets/eeefe204-6db2-4a93-836e-bfb7919d497d)
+  ![image](https://github.com/user-attachments/assets/7df37fb7-6ee4-41c8-88ad-a6d1552253c8)
+
 
   
 - Sample Output:<br>
 
- ![image](https://github.com/user-attachments/assets/5e5cdc90-8a4e-4a73-8b00-df057d051333)
+ ![image](https://github.com/user-attachments/assets/506127f6-c3d1-4d3e-a2e5-6ddde2f25144)
+
 
 
